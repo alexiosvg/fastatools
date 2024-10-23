@@ -2,4 +2,4 @@
 
 grep -h ">" $(find . -name "*.fa" -o -name "*.fasta") 
 
- 
+ echo "lala"
